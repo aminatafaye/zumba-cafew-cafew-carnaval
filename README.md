@@ -24,8 +24,13 @@ A video game with three.js
 - [X] : As a player, I don't want any error in the Console bar 
 - [X] : As a player, I want to be stop when I go into the left wall
 - [X] : As a player, I want to have a ground when I start the game
-- [ ] : As a player, I want to see ennemy
+- [\] : As a player, I want to see ennemy
 - [ ] : As a player, I want to destroy ennemy when I shot them
 - [ ] : As a ennemy, I want to move on one axe
 - [ ] : As a player, I want to decrease my life when I am touch by an ennemy
 - [ ] : As a player, I want to decrease my life when I fall 
+
+
+35/100
+Etant pas familière avec ce language et l'architecture. 
+J'ai eu du mal à comprendre differentes parties du sujet donc j'ai pris du temps et n'est pas fait tout le sujet.

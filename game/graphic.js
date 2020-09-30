@@ -30,6 +30,11 @@ function init()
 
     light1 = new Light("sun", 0xffffff, "0,0,340");
     scene.add(light1);
+    
+    ennemy1 = new Ennemy("ennemy1",0x8b0000 , new THREE.Vector2(HEIGHT/3, HEIGHT/4), 0);
+    scene.add(ennemy1.graphic);
+
+
 }
 
 function Ground(color, size_x, size_y, nb_tile)
